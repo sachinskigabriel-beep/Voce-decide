@@ -1,0 +1,11 @@
+:root {
+    /* CSS HEX */
+    --cinza: #333333ff;
+    --bege: #d5ccc7ff;
+    --prata: #a9a29cff;
+    --preto: #000000;
+}
+
+body {
+    background-color: var(--preto);
+}
